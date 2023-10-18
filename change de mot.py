@@ -1,0 +1,5 @@
+s=input("tapez un txt: ")
+r=input("taper un mot :")
+t=input("tapez le mot qui va changer:")
+x=s.replace(r,t)
+print(x)
